@@ -1,0 +1,10 @@
+{
+  "name": "Proyecto-Gif-Adonay",
+  "version": "1.21.22",
+  "description": "proyecto1",
+  "main": "index.js",
+  "repository": "https://github.com/Adonay1398/proyect-yarn",
+  "author": "adonay1398",
+  "license": "MIT",
+  "private": false
+}

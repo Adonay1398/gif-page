@@ -6,6 +6,7 @@ import ReactDOM from "react-dom/client";
 import { ProyectoGif } from "./ProyectoGif";
 // Creamos un nuevo contenedor de raíz React en el elemento con el id 'root'
 // y renderizamos el componente ProyectoGif en él
+import './styles.css';
 ReactDOM.createRoot(document.getElementById("root")).render(
 // React.StrictMode es un componente especial de React que comprueba si tu aplicación tiene problemas potenciales durante el desarrollo
 <React.StrictMode>
